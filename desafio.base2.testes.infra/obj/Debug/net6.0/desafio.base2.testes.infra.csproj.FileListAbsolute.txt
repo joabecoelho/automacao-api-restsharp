@@ -1,0 +1,15 @@
+D:\Projetos VS\desafio.base2.testes.infra\bin\Debug\net6.0\desafio.base2.testes.infra.deps.json
+D:\Projetos VS\desafio.base2.testes.infra\bin\Debug\net6.0\desafio.base2.testes.infra.dll
+D:\Projetos VS\desafio.base2.testes.infra\bin\Debug\net6.0\desafio.base2.testes.infra.pdb
+D:\Projetos VS\desafio.base2.testes.infra\bin\Debug\net6.0\desafio.base2.testes.crosscutting.environment.dll
+D:\Projetos VS\desafio.base2.testes.infra\bin\Debug\net6.0\desafio.base2.testes.crosscutting.environment.pdb
+D:\Projetos VS\desafio.base2.testes.infra\obj\Debug\net6.0\desafio.base2.testes.infra.csproj.AssemblyReference.cache
+D:\Projetos VS\desafio.base2.testes.infra\obj\Debug\net6.0\desafio.base2.testes.infra.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos VS\desafio.base2.testes.infra\obj\Debug\net6.0\desafio.base2.testes.infra.AssemblyInfoInputs.cache
+D:\Projetos VS\desafio.base2.testes.infra\obj\Debug\net6.0\desafio.base2.testes.infra.AssemblyInfo.cs
+D:\Projetos VS\desafio.base2.testes.infra\obj\Debug\net6.0\desafio.base2.testes.infra.csproj.CoreCompileInputs.cache
+D:\Projetos VS\desafio.base2.testes.infra\obj\Debug\net6.0\desafio.base2.testes.infra.csproj.CopyComplete
+D:\Projetos VS\desafio.base2.testes.infra\obj\Debug\net6.0\desafio.base2.testes.infra.dll
+D:\Projetos VS\desafio.base2.testes.infra\obj\Debug\net6.0\refint\desafio.base2.testes.infra.dll
+D:\Projetos VS\desafio.base2.testes.infra\obj\Debug\net6.0\desafio.base2.testes.infra.pdb
+D:\Projetos VS\desafio.base2.testes.infra\obj\Debug\net6.0\ref\desafio.base2.testes.infra.dll

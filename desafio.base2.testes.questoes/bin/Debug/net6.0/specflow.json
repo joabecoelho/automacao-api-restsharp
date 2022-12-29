@@ -1,0 +1,17 @@
+﻿{
+  "bindingCulture": {
+    "name": "pt-br"
+  },
+  "language": {
+    "feature": "pt-br"
+  },
+  "stepAssemblies": {
+    {
+      "assembly": "desafio.base2.testes.crosscutting.ioc"
+    }
+  },
+  "livingDocGenerator": {
+    "enable": true,
+    "filePath": "TestExecution.json"
+  }
+}

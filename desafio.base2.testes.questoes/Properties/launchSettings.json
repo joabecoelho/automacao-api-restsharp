@@ -1,0 +1,25 @@
+﻿{
+  "profiles": {
+    "desafio.base2.testes:dsv": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "CONNECTION_STRING": "",
+        "APIKEY": "",
+        "CLIENT_SECRET": "",
+        "CLIENT_ID": "",
+        "URL_BASE": ""
+      }
+    },
+    "desafio.base2.testes:hml": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "CONNECTION_STRING": "",
+        "APIKEY": "",
+        "CLIENT_SECRET": "",
+        "CLIENT_ID": "",
+        "URL_BASE": ""
+      }
+    }
+  }
+
+}
